@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     int *p;
     p = malloc(sizeof(int) * 4 );
   
-    printf("%p %n", p , *p);
+  
     
     return 0;
 }
